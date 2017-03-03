@@ -8,11 +8,12 @@
 </head>
 <body>
 <% // 
-	String str="강경완";
+	String str="강경완123";
 	//System.out.println("str = "+str);
 	System.out.println("test");
 	out.println("str = "+str);
 %>
-<%=str %>
+<hr>
+str 값 출력 = <%=str %>
 </body>
 </html>

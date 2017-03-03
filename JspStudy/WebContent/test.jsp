@@ -13,5 +13,7 @@
 	System.out.println("test");
 	out.println("str = "+str);
 %>
+<hr>
+str 값 출력 = <%=str %>
 </body>
 </html>

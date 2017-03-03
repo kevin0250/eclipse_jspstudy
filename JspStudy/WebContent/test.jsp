@@ -9,7 +9,8 @@
 <body>
 <% // 
 	String str="강경완";
-	System.out.println("str = "+str);
+	//System.out.println("str = "+str);
+	System.out.println("test");
 	out.println("str = "+str);
 %>
 </body>
